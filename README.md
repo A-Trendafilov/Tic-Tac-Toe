@@ -61,14 +61,19 @@ pip install numpy
     ```
 2. Follow the on-screen instructions to play the game.
 
-###
-
-***
-
-### Gameplay Instructions
 
 - **Game Board**: The game board is a 3x3 grid.
 - **Player Moves**: Players take turns to place their symbol (X or O) on an empty cell.
 - **Making Moves**: To make a move, enter the number corresponding to the cell where you want to place your symbol.
 - **Game Continuation**: The game continues until one player wins or there's a tie.
 - **Exiting the Game**: To exit the game at any time, enter '0' during your turn.
+
+###
+
+***
+
+## Screenshot
+
+<img alt="Screenshot 1" src="/screenshots/tic_tac_toe_1.png"/>
+<img alt="Screenshot 1" src="/screenshots/tic_tac_toe_2.png"/>
+<img alt="Screenshot 1" src="/screenshots/tic_tac_toe_3.png"/>
